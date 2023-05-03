@@ -1,0 +1,121 @@
+{
+    "Datawallpaper":
+    {
+        "AdsController": {
+		
+		        "ShowAds": true,
+				"TypeInterAd": "random",
+				"TypeBannerAd": "random",
+				"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+				"InterstitialAdmob":"ca-app-pub-3940256099942544/1033173712",
+				"BannerFAN": "IMG_16_9_APP_INSTALL#583920820409980_583922167076512",
+				"InterstitialFAN": "IMG_16_9_APP_INSTALL#583920820409980_583922417076487",
+				"AppIDUnity": "4914319",
+				"TestModeUnity": true,
+			    "AdsClick":1,
+				"AdsClickList":1
+	},
+        
+           "category":[
+           {
+             "imagecategory":"https://i.pinimg.com/564x/2d/d1/2e/2dd12ea69a5b4b03016e7a2c61e32554.jpg",
+             "titlecategory":"GACHA BOYS"
+           },
+            {
+              "imagecategory":"https://i.pinimg.com/564x/b7/02/24/b702247bc674d41470984da9cc33033e.jpg",
+             "titlecategory":"GACHA GIRLS"
+               
+           },
+            {
+              "imagecategory":"https://i.pinimg.com/564x/da/e0/72/dae072747e8a15c6ee31c3bc49dd9f8c.jpg",
+             "titlecategory":"GACHA WORLD"
+               
+               
+           }
+           
+           ]
+   ,
+        
+       "items":[
+           {
+             "image":"https://i.pinimg.com/564x/45/f1/e8/45f1e84dcbdfca33ad46d0876957413a.jpg",
+             "category":"GACHA BOYS"
+           },
+            {
+             "image":"https://freerabux.com/wal2.png",
+             "category":"GACHA BOYS"
+               
+           },
+            {
+              "image":"https://freerabux.com/wal3.png",
+             "category":"GACHA BOYS"
+               
+           },
+            {
+             "image":"https://freerabux.com/wal4.png",
+             "category":"GACHA BOYS"
+               
+           },
+            {
+             "image":"https://freerabux.com/anim1.png",
+             "category":"GACHA BOYS"
+               
+           },
+            {
+          
+             "image":"https://freerabux.com/anim2.png",
+             "category":"ANIMALS"
+             
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim3.png",
+             "category":"ANIMALS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"ANIMALS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"SPORTS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"ANIMALS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"ANIMALS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"ANIMALS"
+               
+           },
+            {
+             
+             "image":"https://freerabux.com/anim4.png",
+             "category":"ANIMALS"
+               
+           }
+           
+           ]
+        
+       
+        
+    }
+    
+    
+}
